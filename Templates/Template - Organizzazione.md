@@ -1,17 +1,15 @@
 ---
 tags:
   - dcc
-  - dcc/personaggio
+  - dcc/organizzazione
 aliases: []
-specie:
-ruolo:
 libro_comparsa:
 ---
-# 🧑 {{title}}
+# ®️ {{title}}
 
 ## Chi è
 
-## Relazioni
+## Membri
 - 
 ## Misteri collegati
 - 
@@ -20,3 +18,4 @@ libro_comparsa:
 - **Libro 2:** 
 - **Libro 3:** 
 - **Libro 4:** 
+

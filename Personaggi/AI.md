@@ -3,18 +3,22 @@ tags:
   - dcc
   - dcc/personaggio
 aliases: []
-specie:
+specie: AI
 ruolo:
-libro_comparsa:
+libro_comparsa: 1
 ---
-# 🧑 {{title}}
+# 🧑 AI
 
 ## Chi è
+Forse un'entità senziente.
 
 ## Relazioni
 - 
+
 ## Misteri collegati
-- 
+- [[Foot fetish dell'AI]]
+- [[Natura dell'AI]]
+
 ## Evoluzione libro per libro
 - **Libro 1:** 
 - **Libro 2:** 

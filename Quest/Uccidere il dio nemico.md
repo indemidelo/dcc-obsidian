@@ -1,22 +1,24 @@
 ---
 tags:
   - dcc
-  - dcc/personaggio
+  - dcc/organizzazione
 aliases: []
-specie:
-ruolo:
-libro_comparsa:
+libro_comparsa: 4
+libro_risoluzione:
 ---
-# 🧑 {{title}}
+# ✈️ Uccidere il dio nemico
 
-## Chi è
+## Obiettivo
 
-## Relazioni
-- 
+## Ricompensa
+Una box celestiale.
+
 ## Misteri collegati
 - 
+
 ## Evoluzione libro per libro
 - **Libro 1:** 
 - **Libro 2:** 
 - **Libro 3:** 
 - **Libro 4:** 
+

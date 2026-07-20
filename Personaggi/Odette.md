@@ -5,16 +5,20 @@ tags:
 aliases: []
 specie:
 ruolo:
-libro_comparsa:
+libro_comparsa: 1
 ---
-# 🧑 {{title}}
+# 🧑 Odette
 
 ## Chi è
 
+
 ## Relazioni
 - 
+
 ## Misteri collegati
-- 
+- [[Il passato di Mordecai]]
+- [[Che fine ha fatto Bea]]
+
 ## Evoluzione libro per libro
 - **Libro 1:** 
 - **Libro 2:** 

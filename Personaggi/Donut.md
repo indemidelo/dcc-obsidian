@@ -7,14 +7,17 @@ specie:
 ruolo:
 libro_comparsa:
 ---
-# 🧑 {{title}}
+# 🧑 Donut
 
 ## Chi è
 
+
 ## Relazioni
 - 
+
 ## Misteri collegati
 - 
+
 ## Evoluzione libro per libro
 - **Libro 1:** 
 - **Libro 2:** 

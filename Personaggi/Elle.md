@@ -5,16 +5,19 @@ tags:
 aliases: []
 specie:
 ruolo:
-libro_comparsa:
+libro_comparsa: 1
 ---
-# 🧑 {{title}}
+# 🧑 Elle
 
 ## Chi è
 
+
 ## Relazioni
-- 
+- Ospite del [[Meadow Lark]]
+
 ## Misteri collegati
 - 
+
 ## Evoluzione libro per libro
 - **Libro 1:** 
 - **Libro 2:** 

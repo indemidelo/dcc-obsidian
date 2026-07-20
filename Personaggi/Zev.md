@@ -3,18 +3,21 @@ tags:
   - dcc
   - dcc/personaggio
 aliases: []
-specie:
+specie: Kua-Tin
 ruolo:
 libro_comparsa:
 ---
-# 🧑 {{title}}
+# 🧑 Zev
 
 ## Chi è
 
+
 ## Relazioni
 - 
+
 ## Misteri collegati
 - 
+
 ## Evoluzione libro per libro
 - **Libro 1:** 
 - **Libro 2:** 

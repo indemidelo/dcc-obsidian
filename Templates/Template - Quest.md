@@ -1,18 +1,17 @@
 ---
 tags:
   - dcc
-  - dcc/personaggio
+  - dcc/organizzazione
 aliases: []
-specie:
-ruolo:
 libro_comparsa:
+libro_risoluzione:
 ---
-# 🧑 {{title}}
+# ✈️ {{title}}
 
-## Chi è
+## Obiettivo
 
-## Relazioni
-- 
+## Ricompensa
+
 ## Misteri collegati
 - 
 ## Evoluzione libro per libro
@@ -20,3 +19,4 @@ libro_comparsa:
 - **Libro 2:** 
 - **Libro 3:** 
 - **Libro 4:** 
+

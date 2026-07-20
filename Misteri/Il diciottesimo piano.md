@@ -1,11 +1,14 @@
 ---
-tags: [dcc, dcc/mistero, dcc/irrisolto]
+tags:
+  - dcc
+  - dcc/mistero
+  - dcc/irrisolto
 aliases: []
-libro_comparsa: 
-libro_risoluzione: 
+libro_comparsa: 1
+libro_risoluzione:
 ---
-# ❓ {{title}}
+# ❓ Il diciottesimo piano
 ## Domande aperte
-- 
+- Cosa succede al diciottesimo piano? Nessuno ci è mai arrivato.
 ## Stato
 🔴 **Irrisolto** — aggiorna a 🟢 **Risolto** (e cambia il tag in `dcc/risolto`) quando trovi la risposta nei libri successivi.

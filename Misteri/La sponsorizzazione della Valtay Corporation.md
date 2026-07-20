@@ -4,8 +4,8 @@ aliases: []
 libro_comparsa: 
 libro_risoluzione: 
 ---
-# ❓ {{title}}
+# ❓ La sponsorship della Valtay Corporation
 ## Domande aperte
-- 
+- Perchè la [[Valtay Corporation]] sta sponsorizzando [[Carl]]?
 ## Stato
 🔴 **Irrisolto** — aggiorna a 🟢 **Risolto** (e cambia il tag in `dcc/risolto`) quando trovi la risposta nei libri successivi.

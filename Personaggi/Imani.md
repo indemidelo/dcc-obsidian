@@ -3,11 +3,11 @@ tags:
   - dcc
   - dcc/personaggio
 aliases: []
-specie:
+specie: Umano
 ruolo:
-libro_comparsa:
+libro_comparsa: 1
 ---
-# 🧑 {{title}}
+# 🧑 Imani
 
 ## Chi è
 

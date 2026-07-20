@@ -5,12 +5,12 @@ tags:
 aliases: []
 specie:
 ruolo:
-libro_comparsa:
+libro_comparsa: 2
 ---
-# 🧑 {{title}}
+# 🧑 Signet
 
 ## Chi è
-
+Personaggio principale della quest [[Vengeance of the Daughter]].
 ## Relazioni
 - 
 ## Misteri collegati

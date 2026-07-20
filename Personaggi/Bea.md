@@ -3,18 +3,22 @@ tags:
   - dcc
   - dcc/personaggio
 aliases: []
-specie:
+specie: Umano
 ruolo:
-libro_comparsa:
+libro_comparsa: 1
 ---
-# 🧑 {{title}}
+# 🧑 Bea
 
 ## Chi è
 
+
 ## Relazioni
-- 
+- Ex-ragazza di [[Carl]]
+- Padrona di [[Donut]]
+
 ## Misteri collegati
 - 
+
 ## Evoluzione libro per libro
 - **Libro 1:** 
 - **Libro 2:** 

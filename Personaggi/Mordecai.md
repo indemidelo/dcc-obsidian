@@ -3,18 +3,21 @@ tags:
   - dcc
   - dcc/personaggio
 aliases: []
-specie:
-ruolo:
-libro_comparsa:
+specie: Skyfowl
+ruolo: Manager di Donut
+libro_comparsa: 1
 ---
-# 🧑 {{title}}
+# 🧑 Mordecai
 
 ## Chi è
+È arrivato fino all'undicesimo piano del Dungeon.
 
 ## Relazioni
 - 
+
 ## Misteri collegati
-- 
+- [[Il passato di Mordecai]]
+
 ## Evoluzione libro per libro
 - **Libro 1:** 
 - **Libro 2:** 

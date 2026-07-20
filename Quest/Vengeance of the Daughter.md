@@ -1,22 +1,23 @@
 ---
 tags:
   - dcc
-  - dcc/personaggio
+  - dcc/organizzazione
 aliases: []
-specie:
-ruolo:
-libro_comparsa:
+libro_comparsa: 2
+libro_risoluzione:
 ---
-# 🧑 {{title}}
+# ✈️ Vengeance of the Daughter
 
-## Chi è
+## Obiettivo
 
-## Relazioni
-- 
+## Ricompensa
+
 ## Misteri collegati
 - 
+
 ## Evoluzione libro per libro
 - **Libro 1:** 
 - **Libro 2:** 
 - **Libro 3:** 
 - **Libro 4:** 
+

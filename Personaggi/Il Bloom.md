@@ -1,22 +1,22 @@
 ---
 tags:
   - dcc
-  - dcc/personaggio
+  - dcc/organizzazione
 aliases: []
-specie:
-ruolo:
 libro_comparsa:
 ---
-# 🧑 {{title}}
+# ®️ Il Bloom
 
 ## Chi è
+Il partito Kua-Tin che vuole accelerare il termine del Dungeon.
 
-## Relazioni
+## Membri
 - 
 ## Misteri collegati
-- 
+- [[Qualcuno sta accelerando il Dungeon]]
 ## Evoluzione libro per libro
 - **Libro 1:** 
 - **Libro 2:** 
 - **Libro 3:** 
 - **Libro 4:** 
+
