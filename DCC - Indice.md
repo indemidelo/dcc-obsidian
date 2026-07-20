@@ -1,11 +1,11 @@
 ---
 tags: [dcc, dcc/hub]
-aliases: [DCC Misteri]
+aliases: [DCC Indice, DCC Appunti]
 ---
 
-# 🕳️ Misteri di Dungeon Crawler Carl
+# 📚 Dungeon Crawler Carl — Appunti
 
-Nota indice. Ogni voce sotto è un link a una nota dedicata (creata dal template `Template - Mistero`). Aggiungi qui il link non appena crei una nuova nota mistero, nella sezione giusta.
+Nota indice. Ogni voce sotto è un link a una nota dedicata (creata da uno dei template in `Templates/`). Aggiungi qui il link non appena crei una nuova nota, nella sezione giusta.
 
 > [!info] Legenda
 > - 🟢 Risolto = ha già una risposta nei libri che hai letto finora
@@ -18,6 +18,24 @@ Nota indice. Ogni voce sotto è un link a una nota dedicata (creata dal template
 - 
 
 ## 🔴 Misteri irrisolti
+
+- 
+
+---
+
+## 📖 Libri letti
+
+- 
+
+## 🧑 Personaggi
+
+- 
+
+## 🗺️ Luoghi/Piani
+
+- 
+
+## 💭 Teorie personali
 
 - 
 

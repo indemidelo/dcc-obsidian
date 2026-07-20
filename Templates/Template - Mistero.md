@@ -7,7 +7,7 @@ libro_risoluzione:
 
 # ❓ {{title}}
 
-Collegata a: [[Misteri DCC - Indice]] · 
+Collegata a: [[DCC - Indice]] · 
 
 ## Cosa sappiamo
 
