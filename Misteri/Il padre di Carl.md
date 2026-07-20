@@ -1,8 +1,11 @@
 ---
-tags: [dcc, dcc/mistero, dcc/irrisolto]
+tags:
+  - dcc
+  - dcc/mistero
+  - dcc/irrisolto
 aliases: []
-libro_comparsa: 
-libro_risoluzione: 
+libro_comparsa:
+libro_risoluzione:
 ---
 # ❓ Il padre di Carl
 ## Domande aperte

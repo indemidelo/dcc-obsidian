@@ -9,7 +9,6 @@ libro_comparsa:
 
 ## Origine/provenienza
 Ricevuto da [[Carl]] da parte della [[Valtay Corporation]].
-
 ## Mistero legato
 - [[La sponsorizzazione della Valtay Corporation]]
 ## Note/utilizzi

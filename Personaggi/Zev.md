@@ -16,7 +16,7 @@ libro_comparsa:
 - 
 
 ## Misteri collegati
-- 
+- [[Come fanno Donut e Zev a comunicare?]]
 
 ## Evoluzione libro per libro
 - **Libro 1:** 

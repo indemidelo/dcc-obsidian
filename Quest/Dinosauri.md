@@ -1,25 +1,22 @@
 ---
 tags:
   - dcc
-  - dcc/personaggio
+  - dcc/organizzazione
 aliases: []
-specie:
-ruolo:
-libro_comparsa:
+libro_comparsa: 5
+libro_risoluzione:
 ---
-# 🧑 Donut
+# ✈️ Dinosauri
 
-## Chi è
+## Obiettivo
 
-
-## Relazioni
-- 
+## Ricompensa
 
 ## Misteri collegati
-- [[Come fanno Donut e Zev a comunicare?]]
-
+- 
 ## Evoluzione libro per libro
 - **Libro 1:** 
 - **Libro 2:** 
 - **Libro 3:** 
 - **Libro 4:** 
+

@@ -17,10 +17,10 @@ libro_comparsa: 1
 
 ## Misteri collegati
 - [[Che fine ha fatto Bea]]
-- [[Chi è il cavaliere nella statuina]]
 - [[Cosa è successo ai Primal]]
 - [[Foot fetish dell'AI]]
-- [[Origine del DAC]]
+- [[Il padre di Carl]]
+- [[La madre di Carl]]
 
 ## Evoluzione libro per libro
 - **Libro 1:** 

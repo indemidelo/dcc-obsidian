@@ -7,17 +7,15 @@ specie:
 ruolo:
 libro_comparsa:
 ---
-# 🧑 Donut
+# 🧑 Capo della ONLUS
 
 ## Chi è
 
-
 ## Relazioni
-- 
-
+- Capo della [[ONLUS]]
 ## Misteri collegati
-- [[Come fanno Donut e Zev a comunicare?]]
-
+- [[La sponsorizzazione della ONLUS]]
+- [[A cosa serve il tubero]]
 ## Evoluzione libro per libro
 - **Libro 1:** 
 - **Libro 2:** 

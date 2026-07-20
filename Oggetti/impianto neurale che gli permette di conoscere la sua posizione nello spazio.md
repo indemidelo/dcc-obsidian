@@ -1,7 +1,9 @@
 ---
-tags: [dcc, dcc/oggetto]
-rango: 
-libro_comparsa: 
+tags:
+  - dcc
+  - dcc/oggetto
+rango:
+libro_comparsa: 4
 ---
 # 🗝️ impianto neurale che gli permette di conoscere la sua posizione nello spazio
 
