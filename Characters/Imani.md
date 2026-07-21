@@ -1,17 +1,18 @@
 ---
 tags:
   - dcc
-  - dcc/quest
+  - dcc/character
 aliases: []
-book_appearance: 
-book_resolution: 
+species: Human
+role: 
+book_appearance: 1
 ---
-# ✈️ {{title}}
+# 🧑 Imani
 
-## Objective
+## Who they are
 
-## Reward
-
+## Relationships
+- 
 ## Related mysteries
 - 
 ## Book-by-book evolution
@@ -19,3 +20,4 @@ book_resolution:
 - **Book 2:** 
 - **Book 3:** 
 - **Book 4:** 
+

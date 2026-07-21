@@ -1,21 +1,26 @@
 ---
 tags:
   - dcc
-  - dcc/quest
+  - dcc/character
 aliases: []
-book_appearance: 
-book_resolution: 
+species: 
+role: 
+book_appearance: 1
 ---
-# ✈️ {{title}}
+# 🧑 Elle
 
-## Objective
+## Who they are
 
-## Reward
+
+## Relationships
+- Resident of [[Meadow Lark]]
 
 ## Related mysteries
 - 
+
 ## Book-by-book evolution
 - **Book 1:** 
 - **Book 2:** 
 - **Book 3:** 
 - **Book 4:** 
+

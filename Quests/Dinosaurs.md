@@ -3,10 +3,10 @@ tags:
   - dcc
   - dcc/quest
 aliases: []
-book_appearance: 
-book_resolution: 
+book_appearance: 5
+book_resolution:
 ---
-# ✈️ {{title}}
+# ✈️ Dinosaurs
 
 ## Objective
 
@@ -19,3 +19,4 @@ book_resolution:
 - **Book 2:** 
 - **Book 3:** 
 - **Book 4:** 
+

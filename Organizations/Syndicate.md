@@ -1,17 +1,16 @@
 ---
 tags:
   - dcc
-  - dcc/quest
+  - dcc/organization
 aliases: []
-book_appearance: 
-book_resolution: 
+book_appearance: 1
 ---
-# ✈️ {{title}}
+# ®️ Syndicate
 
-## Objective
+## Who they are
 
-## Reward
-
+## Members
+- 
 ## Related mysteries
 - 
 ## Book-by-book evolution
@@ -19,3 +18,4 @@ book_resolution:
 - **Book 2:** 
 - **Book 3:** 
 - **Book 4:** 
+

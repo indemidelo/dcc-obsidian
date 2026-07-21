@@ -1,17 +1,18 @@
 ---
 tags:
   - dcc
-  - dcc/quest
+  - dcc/character
 aliases: []
+species: 
+role: 
 book_appearance: 
-book_resolution: 
 ---
-# ✈️ {{title}}
+# 🧑 {{title}}
 
-## Objective
+## Who they are
 
-## Reward
-
+## Relationships
+- 
 ## Related mysteries
 - 
 ## Book-by-book evolution

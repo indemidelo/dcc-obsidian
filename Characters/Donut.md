@@ -1,21 +1,26 @@
 ---
 tags:
   - dcc
-  - dcc/quest
+  - dcc/character
 aliases: []
+species: 
+role: 
 book_appearance: 
-book_resolution: 
 ---
-# ✈️ {{title}}
+# 🧑 Donut
 
-## Objective
+## Who they are
 
-## Reward
+
+## Relationships
+- 
 
 ## Related mysteries
-- 
+- [[How do Donut and Zev communicate]]
+
 ## Book-by-book evolution
 - **Book 1:** 
 - **Book 2:** 
 - **Book 3:** 
 - **Book 4:** 
+

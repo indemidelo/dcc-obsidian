@@ -1,21 +1,24 @@
 ---
 tags:
   - dcc
-  - dcc/quest
+  - dcc/organization
 aliases: []
-book_appearance: 
-book_resolution: 
+book_appearance: 1
 ---
-# ✈️ {{title}}
+# ®️ Borant Corporation
 
-## Objective
+## Who they are
 
-## Reward
+
+## Members
+- [[Zev]]
 
 ## Related mysteries
 - 
+
 ## Book-by-book evolution
 - **Book 1:** 
 - **Book 2:** 
 - **Book 3:** 
 - **Book 4:** 
+

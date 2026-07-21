@@ -1,17 +1,16 @@
 ---
 tags:
   - dcc
-  - dcc/quest
+  - dcc/organization
 aliases: []
 book_appearance: 
-book_resolution: 
 ---
-# ✈️ {{title}}
+# ®️ {{title}}
 
-## Objective
+## Who they are
 
-## Reward
-
+## Members
+- 
 ## Related mysteries
 - 
 ## Book-by-book evolution
