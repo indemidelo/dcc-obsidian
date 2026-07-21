@@ -4,8 +4,9 @@ aliases: []
 book_appearance: 
 book_resolution: 
 ---
-# ❓ The AI's nature
+# ❓ Borant's failure
 ## Open questions
-- What is the [[AI]], really? A sentient entity?
+- Why is [[Borant Corporation]] failing? 
+- What does [[The Bloom]] have to do with it?
 ## Status
 🔴 **Unresolved** — update to 🟢 **Resolved** (and change the tag to `dcc/resolved`) once you find the answer in later books.

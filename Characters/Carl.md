@@ -18,9 +18,9 @@ book_appearance: 1
 ## Related mysteries
 - [[What happened to Bea]]
 - [[What happened to the Primals]]
-- [[The AI's foot fetish]]
-- [[Carl's father]]
-- [[Carl's mother]]
+- [[Why does the AI have a foot fetish]]
+- [[What happened to Carl's father]]
+- [[What happened to Carl's mother]]
 
 ## Book-by-book evolution
 - **Book 1:** 

@@ -15,7 +15,7 @@ The book contains information that the [showrunners]([[Borant Corporation]]) can
 Still unknown.
 
 ## Related mystery
-- [[Origin of the Dungeon Anarchist Cookbook]]
+- [[What is the origin of the Dungeon Anarchist Cookbook]]
 
 ## Notes/uses
 - 

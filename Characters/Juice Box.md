@@ -7,18 +7,16 @@ species:
 role: 
 book_appearance: 
 ---
-# 🧑 Head of the Charity
+# 🧑 Juice Box
 
 ## Who they are
-
+Doppelganger helped by [[Carl]] and [[Princess Donut]] to reach the [[Ninth floor]].
 ## Relationships
-- Head of [[The Charity]]
+- Will marry [[Louis]].
 ## Related mysteries
-- [[The charity's sponsorship]]
-- [[What is the tuber for]]
+- 
 ## Book-by-book evolution
 - **Book 1:** 
 - **Book 2:** 
 - **Book 3:** 
 - **Book 4:** 
-

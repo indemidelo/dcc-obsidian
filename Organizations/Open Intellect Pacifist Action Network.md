@@ -5,18 +5,17 @@ tags:
 aliases: []
 book_appearance: 
 ---
-# ®️ The Bloom
+# ®️ Open Intellect Pacifist Action Network
 
 ## Who they are
-The Kua-Tin party that wants to speed up the end of the Dungeon.
 
 ## Members
-- 
+- [[Dr. Porthus Hu]]
 ## Related mysteries
-- [[Why is someone speeding up the Dungeon]]
+- [[Why is the OIPAN sponsoring Carl]]
+- [[What is the Toraline Root Vegetable for]]
 ## Book-by-book evolution
 - **Book 1:** 
 - **Book 2:** 
 - **Book 3:** 
 - **Book 4:** 
-

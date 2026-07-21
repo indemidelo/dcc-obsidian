@@ -3,25 +3,21 @@ tags:
   - dcc
   - dcc/character
 aliases: []
-species: Human
+species: 
 role: 
-book_appearance: 1
+book_appearance: 
 ---
-# 🧑 Bea
+# 🧑 Emberus
 
 ## Who they are
-
-
+A God living in the [[Halls of the Ascendency]].
+The gods and goddesses are *Soul Armor*.
 ## Relationships
-- [[Carl]]'s ex-girlfriend
-- Owner of [[Princess Donut]]
-
+- [[Carl]] worships him.
 ## Related mysteries
 - 
-
 ## Book-by-book evolution
 - **Book 1:** 
 - **Book 2:** 
 - **Book 3:** 
 - **Book 4:** 
-

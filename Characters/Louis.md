@@ -3,21 +3,20 @@ tags:
   - dcc
   - dcc/character
 aliases: []
-species: 
-role: 
-book_appearance: 
+species: Human
+role:
+book_appearance: 4
 ---
-# 🧑 The Maestro
+# 🧑 Louis
 
 ## Who they are
-
+Human crawler with a strong Puddle-jumper spell. 
 ## Relationships
-- 
+- Will marry [[Juice Box]].
 ## Related mysteries
-- [[Who created the Pork Boy Snick]]
+- 
 ## Book-by-book evolution
 - **Book 1:** 
 - **Book 2:** 
 - **Book 3:** 
 - **Book 4:** 
-

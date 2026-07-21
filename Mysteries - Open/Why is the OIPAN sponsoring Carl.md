@@ -4,8 +4,8 @@ aliases: []
 book_appearance: 
 book_resolution: 
 ---
-# ❓ Borant's failure
+# ❓ Why is the OIPAN sponsoring Carl
 ## Open questions
-- Why is [[Borant Corporation]] failing? What does [[The Bloom]] have to do with it?
+- Why is [[Open Intellect Pacifist Action Network]] sponsoring [[Carl]]?
 ## Status
 🔴 **Unresolved** — update to 🟢 **Resolved** (and change the tag to `dcc/resolved`) once you find the answer in later books.

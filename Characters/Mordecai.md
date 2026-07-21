@@ -16,7 +16,7 @@ He made it as far as the eleventh floor of the Dungeon.
 - 
 
 ## Related mysteries
-- [[Mordecai's past]]
+- [[What is Mordecai's past]]
 
 ## Book-by-book evolution
 - **Book 1:** 

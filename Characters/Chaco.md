@@ -16,7 +16,7 @@ book_appearance: 3
 - [[Mordecai]] attacks him on sight.
 
 ## Related mysteries
-- [[Mordecai's past]]
+- [[What is Mordecai's past]]
 
 ## Book-by-book evolution
 - **Book 3:** Shows up claiming to have done [[Mordecai]] a great wrong.

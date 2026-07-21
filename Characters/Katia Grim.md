@@ -1,17 +1,18 @@
 ---
 tags:
   - dcc
-  - dcc/quest
+  - dcc/character
 aliases: []
-book_appearance: 5
-book_resolution:
+species:
+role:
+book_appearance: 2
 ---
-# ✈️ Dinosaurs
+# 🧑 Katia Grim
 
-## Objective
+## Who they are
 
-## Reward
-
+## Relationships
+- 
 ## Related mysteries
 - 
 ## Book-by-book evolution
@@ -19,4 +20,3 @@ book_resolution:
 - **Book 2:** 
 - **Book 3:** 
 - **Book 4:** 
-

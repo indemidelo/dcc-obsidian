@@ -4,10 +4,8 @@ aliases: []
 book_appearance: 
 book_resolution: 
 ---
-# ❓ The dungeon freezes
+# ❓ Donut's hobby
 ## Open questions
-- Why does the dungeon freeze? Does it have anything to do with the [[AI]]?
-- 
-
+- What does [[Princess Donut]]'s hobby consist of?
 ## Status
 🔴 **Unresolved** — update to 🟢 **Resolved** (and change the tag to `dcc/resolved`) once you find the answer in later books.

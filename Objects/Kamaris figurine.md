@@ -5,16 +5,16 @@ tags:
 rank: 
 book_appearance: 2
 ---
-# 🗝️ Knight Figurine
+# 🗝️ Kamaris figurine
 
 ## What it does
 
 
 ## Origin
-
+Found by [[Carl]] in [[Book 2 - Carl's Doomsday Scenario]].
 
 ## Related mystery
-- [[Who is the knight in the figurine]]
+- [[How strong is the Kamaris figurine]]
 
 ## Notes/uses
 - 

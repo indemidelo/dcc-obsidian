@@ -9,7 +9,7 @@ book_appearance: 1
 ---
 # 🧑 Odette
 
-Related to: [[DCC - Index]] · [[Carl]] · [[Mordecai]] · [[Mordecai's past]]
+Related to: [[DCC - Index]] · [[Carl]] · [[Mordecai]] · [[What is Mordecai's past]]
 
 ## Who they are
 Host of the program *Dungeon Crawler After Hours with Odette*, a show that airs right after the main program *Dungeon Crawler World: Earth*, produced by the Titan Conglomerate. Described as the most beloved host in the galaxy. She interviews Carl and Donut multiple times over the course of the book, giving them advice (sometimes sincere, sometimes ambiguous) about the game.
@@ -17,11 +17,11 @@ Host of the program *Dungeon Crawler After Hours with Odette*, a show that airs 
 She hints that, in the past, she was able to choose whether to "stay human" or not — a choice that cost her viewers.
 
 ## Relationships
-- [[Carl]] and [[Donut]] — recurring guests on her show
+- [[Carl]] and [[Princess Donut]] — recurring guests on her show
 - [[Mordecai]] — tense relationship: she admits to having "pushed him too hard" in the past, causing him consequences; she sends him a message through Carl, which Mordecai reacts badly to
 
 ## Related mysteries
-- [[Mordecai's past]]
+- [[What is Mordecai's past]]
 - [[What happened to Bea]]
 
 ## Book-by-book evolution

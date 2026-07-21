@@ -1,11 +1,16 @@
 ---
-tags: [dcc, dcc/mystery, dcc/unresolved]
+tags:
+  - dcc
+  - dcc/mystery
+  - dcc/unresolved
 aliases: []
-book_appearance: 
-book_resolution: 
+book_appearance: 1
+book_resolution:
 ---
-# ❓ The Bloody Sultanate
+
+# ❓ The AI's foot fetish
 ## Open questions
-- What will happen to [[Donut]] on the Ninth Floor?
+- Why does the [[System AI]] have a foot fetish?
+
 ## Status
 🔴 **Unresolved** — update to 🟢 **Resolved** (and change the tag to `dcc/resolved`) once you find the answer in later books.

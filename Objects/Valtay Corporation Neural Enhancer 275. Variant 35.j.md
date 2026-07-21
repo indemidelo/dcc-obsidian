@@ -5,13 +5,12 @@ tags:
 rank: 
 book_appearance: 4
 ---
-# 🗝️ Neural implant that lets him know his position in space
-
+# 🗝️ Valtay Corporation Neural Enhancer 275. Variant 35.j
 ## What it does
-
+Show the current elevation and airspeed.
 ## Origin
 Received by [[Carl]] from [[Valtay Corporation]].
 ## Related mystery
-- [[Valtay Corporation's sponsorship]]
+- [[Why is the Valtay Corporation sponsoring Carl]]
 ## Notes/uses
 - 

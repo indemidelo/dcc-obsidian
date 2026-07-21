@@ -4,8 +4,9 @@ aliases: []
 book_appearance: 
 book_resolution: 
 ---
-# ❓ Valtay Corporation's sponsorship
+# ❓ The Bloody Sultanate
+[[Princess Donut]] has to kill all members of [[What will happen to Donut at the Bloody Sultanate]] to proceed past the ninth floor.
 ## Open questions
-- Why is [[Valtay Corporation]] sponsoring [[Carl]]?
+- What will happen to [[Princess Donut]] on the Ninth Floor?
 ## Status
 🔴 **Unresolved** — update to 🟢 **Resolved** (and change the tag to `dcc/resolved`) once you find the answer in later books.

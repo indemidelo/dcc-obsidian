@@ -3,25 +3,21 @@ tags:
   - dcc
   - dcc/character
 aliases: []
-species: AI
+species: 
 role: 
-book_appearance: 1
+book_appearance: 
 ---
-# 🧑 AI
+# 🧑 Epitome Noflex
 
 ## Who they are
-Possibly a sentient entity.
 
 ## Relationships
-- 
-
+- [[Carl]] received a picture of her in a Mystery Box.
+- She is the mother of the [[Dream]].
 ## Related mysteries
-- [[The AI's foot fetish]]
-- [[The AI's nature]]
-
+- 
 ## Book-by-book evolution
 - **Book 1:** 
 - **Book 2:** 
 - **Book 3:** 
 - **Book 4:** 
-

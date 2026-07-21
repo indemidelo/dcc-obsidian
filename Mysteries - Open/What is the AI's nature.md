@@ -4,8 +4,8 @@ aliases: []
 book_appearance: 
 book_resolution: 
 ---
-# ❓ The charity's sponsorship
+# ❓ The AI's nature
 ## Open questions
-- Why is [[The Charity]] sponsoring [[Carl]]?
+- What is the [[System AI]], really? A sentient entity?
 ## Status
 🔴 **Unresolved** — update to 🟢 **Resolved** (and change the tag to `dcc/resolved`) once you find the answer in later books.

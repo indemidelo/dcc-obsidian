@@ -8,6 +8,7 @@ book_resolution:
 ---
 # ✈️ {{title}}
 
+## Description
 ## Objective
 
 ## Reward

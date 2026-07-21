@@ -3,22 +3,18 @@ tags:
   - dcc
   - dcc/character
 aliases: []
-species: Human
+species: 
 role: 
-book_appearance: 1
+book_appearance: 
 ---
-# 🧑 Bea
+# 🧑 Maestro
 
 ## Who they are
 
-
 ## Relationships
-- [[Carl]]'s ex-girlfriend
-- Owner of [[Princess Donut]]
-
-## Related mysteries
 - 
-
+## Related mysteries
+- [[Who created the Pork Boy Snick]]
 ## Book-by-book evolution
 - **Book 1:** 
 - **Book 2:** 

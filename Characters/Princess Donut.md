@@ -7,7 +7,7 @@ species:
 role: 
 book_appearance: 
 ---
-# 🧑 Donut
+# 🧑 Princess Donut
 
 ## Who they are
 
@@ -17,6 +17,7 @@ book_appearance:
 
 ## Related mysteries
 - [[How do Donut and Zev communicate]]
+- [[What is Donut's hobby]]
 
 ## Book-by-book evolution
 - **Book 1:** 

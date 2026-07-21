@@ -10,7 +10,7 @@ book_appearance:
 ## Who they are
 
 ## Members
-- [[The Maestro]]
+- [[Maestro]]
 ## Related mysteries
 - 
 ## Book-by-book evolution
