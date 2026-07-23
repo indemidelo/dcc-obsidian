@@ -1,8 +1,10 @@
 ---
-tags: [dcc, dcc/book]
-number: 
-title: 
-date_read: 
+tags:
+  - dcc
+  - dcc/book
+number:
+title:
+date_read:
 ---
 # 📖 {{title}}
 

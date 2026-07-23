@@ -16,7 +16,7 @@ book_appearance: 1
 - 
 
 ## Related mysteries
-- [[What happened to Bea]]
+- [[What happened to Beatrice]]
 - [[What happened to the Primals]]
 - [[Why does the AI have a foot fetish]]
 - [[What happened to Carl's father]]

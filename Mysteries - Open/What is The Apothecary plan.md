@@ -1,13 +1,10 @@
 ---
-tags:
-  - dcc
-  - dcc/mystery
-  - dcc/unresolved
+tags: [dcc, dcc/mystery, dcc/unresolved]
 aliases: []
-book_appearance:
-book_resolution:
+book_appearance: 
+book_resolution: 
 ---
-# ❓ {{title}}
+# ❓ What is The Apothecary plan
 ## Open questions
 - 
 ## Status

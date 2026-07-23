@@ -1,6 +1,10 @@
 ---
-tags: [dcc, dcc/hub]
-aliases: [DCC Index, DCC Notes]
+tags:
+  - dcc
+  - dcc/hub
+aliases:
+  - DCC Index
+  - DCC Notes
 ---
 
 # 📚 Dungeon Crawler Carl — Notes

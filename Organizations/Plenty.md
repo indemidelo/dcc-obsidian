@@ -1,17 +1,16 @@
 ---
 tags:
   - dcc
-  - dcc/character
+  - dcc/organization
 aliases: []
-species:
-role:
-book_appearance:
+book_appearance: 
 ---
-# 🧑 {{title}}
+# ®️ Plenty
 
 ## Who they are
+Goat people running the tunnel system.
 
-## Relationships
+## Members
 - 
 ## Related mysteries
 - 

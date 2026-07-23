@@ -7,7 +7,7 @@ species: Human
 role: 
 book_appearance: 1
 ---
-# 🧑 Bea
+# 🧑 Beatrice
 
 ## Who they are
 

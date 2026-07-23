@@ -1,7 +1,9 @@
 ---
-tags: [dcc, dcc/object]
-rank: 
-book_appearance: 
+tags:
+  - dcc
+  - dcc/object
+rank:
+book_appearance:
 ---
 # 🗝️ {{title}}
 ## Description

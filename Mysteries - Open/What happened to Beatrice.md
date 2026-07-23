@@ -7,9 +7,9 @@ aliases: []
 book_appearance: 1
 book_resolution:
 ---
-# ❓ What happened to Bea
+# ❓ What happened to Beatrice
 ## Open questions
-- What happened to [[Bea]]?
+- What happened to [[Beatrice]]?
 - She's alive! By the end of the fourth book she appears to be under [[Odette]]'s control.
 
 ## Status

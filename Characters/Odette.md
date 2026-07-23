@@ -22,7 +22,7 @@ She hints that, in the past, she was able to choose whether to "stay human" or n
 
 ## Related mysteries
 - [[What is Mordecai's past]]
-- [[What happened to Bea]]
+- [[What happened to Beatrice]]
 
 ## Book-by-book evolution
 - **Book 1:** Interviews Carl and Donut twice, gives advice on the race/class choice ahead of the third floor, warns Carl about the Valtay Corporation, and hints at a secret, "morally ambiguous" choice available to those with high charisma.
